@@ -1,0 +1,21 @@
+{
+  "name": "blocksphere-research",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:facebook": "node ./social-media-scrapper/facebook/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulhakim2902/blocksphere-research.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulhakim2902/blocksphere-research/issues"
+  },
+  "homepage": "https://github.com/abdulhakim2902/blocksphere-research#readme"
+}
